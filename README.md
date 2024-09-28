@@ -1,2 +1,2 @@
-# first_github_project
-first_github_project
+# simple_landing_page
+simple_landing_page
